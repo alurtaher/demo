@@ -1,1 +1,1 @@
-console.log("THis is demo")
+console.log("Demo completed")
